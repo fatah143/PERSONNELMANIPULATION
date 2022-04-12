@@ -8,7 +8,7 @@ class Personne {
 
 public class PersonneManipulation {
     /* vairable statique */
-
+/*conversion de int a float*/
     static int ageModifier;
     public static void main(String[] args) {
         /* Objet */
